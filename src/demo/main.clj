@@ -1,6 +1,5 @@
 
-(ns demo.main
-  (:gen-class))
+(ns demo.main)
 
 (defn -main []
-  (println "trying to print demo of Chen"))
+  (println "Hello Clojure."))
